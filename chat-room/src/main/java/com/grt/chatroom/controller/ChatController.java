@@ -1,2 +1,7 @@
-package com.grt.chatroom.controller;public class ChatController {
+package com.grt.chatroom.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ChatController {
 }
